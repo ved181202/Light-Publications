@@ -83,6 +83,6 @@ This project is licensed for educational and personal use. Attribution appreciat
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo
 
-> Want to showcase your site online? Deploy it on **GitHub Pages** or **Netlify**, and link it here.
+Check out the live version here: [Light-Publications 🚀](https://ved181202.github.io/Light-Publications/)
